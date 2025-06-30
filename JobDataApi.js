@@ -1,8 +1,9 @@
 import express from "express";
-
+import cros from 'cors'
 import env from "env";
 
 const app = express();
+app.use(cros());
 
 const port = process.env.PORT || 3000;
 
