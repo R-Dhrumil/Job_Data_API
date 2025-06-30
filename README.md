@@ -37,12 +37,14 @@ You can access the deployed API here:
 
 📁 Project Structure
 
+```sh
 Backend/
 ├── JobDataApi.js
 ├── package.json
 ├── vercel.json
 ├── .env
 └── .gitignore
+```
    
 📦 Dependencies
 express
