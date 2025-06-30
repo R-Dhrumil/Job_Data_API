@@ -34,3 +34,23 @@ You can access the deployed API here:
 2. Install dependencies:
    ```sh
    npm install
+
+📁 Project Structure
+
+Backend/
+├── JobDataApi.js
+├── package.json
+├── vercel.json
+├── .env
+└── .gitignore
+   
+📦 Dependencies
+express
+cors
+dotenv
+axios
+👤 Author
+Dhrumil
+
+📄 License
+ISC ``````
